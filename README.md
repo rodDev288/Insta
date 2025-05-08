@@ -6,8 +6,7 @@ Este é um projeto front-end que recria a **interface inicial do Instagram**, fe
 
 ## 📸 Demonstração
 
-![Preview](img/print-da-pagina.png)  
-> *(Substitua este caminho por um print real do seu projeto)*
+![Preview](img/foto-insta.png)  
 
 ---
 
